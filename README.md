@@ -167,58 +167,111 @@ IT experiments, programming projects and continuous learning journey.
 <div align="center">
 
 
-<h2>📊 GitHub Statistics</h2>
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+<br>
 
 <div align="center">
 
+<h2>📊 GitHub Analytics</h2>
+
+<p>
+  <i>A snapshot of my coding journey, projects and continuous learning.</i>
+</p>
+
+<br>
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Rashmi687-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  height="165"
-  alt="Rashmi's GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=Rashmi687-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+  height="170"
+  alt="Rashmi's GitHub Statistics"
 />
 
+&nbsp;&nbsp;
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi687-bit&layout=compact&theme=github_dark&hide_border=true"
-  height="165"
-  alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi687-bit&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  height="170"
+  alt="Rashmi's Most Used Languages"
 />
 
-</div>
-<div align="center">
-
-<h3>👀 Profile Views</h3>
+<br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Rashmi687-bit&label=Profile%20Views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=Rashmi687-bit&label=PROFILE+VISITORS&color=0969da&style=for-the-badge"
   alt="Profile Views"
 />
 
 </div>
 
+<br>
 
+---
+
+<!-- ==================== CONNECT ==================== -->
 
 <div align="center">
 
-<h2>🤝 Let's Connect</h2>
+<h2>🌐 Connect With Me</h2>
 
 <p>
-I'm always interested in connecting with students, developers,
+Interested in <b>Information Technology</b>, <b>Cybersecurity</b>,
+<b>Networking</b>, <b>Linux</b> and <b>DevSecOps</b>.
+</p>
+
+<p>
+I'm always happy to connect with students, developers,
 IT professionals and cybersecurity enthusiasts.
 </p>
 
+<br>
+
 <a href="mailto:rashmijanesha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/Rashmi687-bit">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <br><br>
 
-<i>Open to learning, collaboration and new opportunities in Information Technology and Cybersecurity.</i>
+<p>
+  <i>💡 Open to learning, collaboration and opportunities in IT & Cybersecurity.</i>
+</p>
 
-<br><br>
+</div>
 
-<h3>🔐 Secure • 💻 Learn • 🛠️ Build • 🚀 Grow</h3>
+<br>
 
-<p>⭐ Thanks for visiting my GitHub profile! ⭐</p>
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+<h3>🔐 Secure &nbsp;•&nbsp; 💻 Learn &nbsp;•&nbsp; 🛠️ Build &nbsp;•&nbsp; 🚀 Grow</h3>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%91%8B;Always+learning.+Always+building.+%F0%9F%9A%80;Exploring+the+world+of+IT+%26+Cybersecurity+%F0%9F%94%90"
+  alt="Footer Typing Animation"
+/>
+
+<br>
+
+<p>
+  ⭐ <b>Thanks for visiting!</b> Feel free to explore my repositories and follow my journey.
+</p>
+
+<sub>💙 Building my future one project at a time.</sub>
 
 </div>
 
