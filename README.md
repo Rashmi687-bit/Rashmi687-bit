@@ -165,19 +165,63 @@ IT experiments, programming projects and continuous learning journey.
 ---
 
 <div align="center">
+---
+
+<h2>📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rashmi687-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  height="165"
+  alt="Rashmi's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi687-bit&layout=compact&theme=github_dark&hide_border=true"
+  height="165"
+  alt="Most Used Languages"
+/>
+
+</div>
+<div align="center">
+
+<h3>👀 Profile Views</h3>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Rashmi687-bit&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
+
+</div>
+
+
+
+<div align="center">
 
 <h2>🤝 Let's Connect</h2>
 
 <p>
-I'm interested in connecting with students, developers,
-IT professionals and Cybersecurity enthusiasts.
+I'm always interested in connecting with students, developers,
+IT professionals and cybersecurity enthusiasts.
 </p>
+
+<a href="mailto:rashmijanesha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>Open to learning, collaboration and new opportunities in Information Technology and Cybersecurity.</i>
+
+<br><br>
 
 <h3>🔐 Secure • 💻 Learn • 🛠️ Build • 🚀 Grow</h3>
 
 <p>⭐ Thanks for visiting my GitHub profile! ⭐</p>
 
 </div>
+
 
 <!--
 **Rashmi687-bit/Rashmi687-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
