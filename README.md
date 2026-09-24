@@ -3,6 +3,12 @@
 <h1>Hi 👋, I'm Rashmi Janesha</h1>
 
 <h3>🎓 Undergraduate Computing Student | 🔐 Cybersecurity & IT Enthusiast</h3>
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+IT+Enthusiast+%F0%9F%94%90;Learning+Computer+Networking+%F0%9F%8C%90;Exploring+Linux+%26+DevSecOps+%F0%9F%90%A7;Building+My+Skills+One+Project+at+a+Time+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</p>
 
 <p>
 Passionate about Information Technology, Cybersecurity, secure systems,
@@ -37,15 +43,21 @@ networking and software development.
 <h2>🔐 Cybersecurity & IT Interests</h2>
 
 <p>
-🛡️ Cybersecurity<br>
-🌐 Computer Networking<br>
-🐧 Linux Systems<br>
-🔒 Secure Software Development<br>
-⚙️ DevSecOps<br>
-🧪 Security Testing<br>
-🌍 Web Application Security<br>
-💻 Information Technology Infrastructure<br>
-🖥️ Virtualization & Operating Systems
+  <img src="https://img.shields.io/badge/Cybersecurity-Interest-2E3440?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networking-Learning-2E3440?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Systems-Learning-2E3440?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Application_Security-Learning-2E3440?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Secure_Software_Development-Exploring-2E3440?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-Exploring-2E3440?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Testing-Learning-2E3440?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/IT_Infrastructure-Interest-2E3440?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization_&_Operating_Systems-Learning-2E3440?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
@@ -55,24 +67,24 @@ networking and software development.
 <h3>💻 Programming & Web</h3>
 
 <p>
-☕ Java &nbsp;&nbsp;
-🐍 Python &nbsp;&nbsp;
-🌐 HTML &nbsp;&nbsp;
-🎨 CSS &nbsp;&nbsp;
-⚡ JavaScript
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <h3>🔧 Tools & Technologies</h3>
 
 <p>
-🔧 Git & GitHub<br>
-🐧 Linux<br>
-💻 VirtualBox<br>
-🗄️ MySQL<br>
-📝 Visual Studio Code<br>
-🌐 Web Technologies
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-
 <h3>📚 Currently Learning</h3>
 
 <p>
