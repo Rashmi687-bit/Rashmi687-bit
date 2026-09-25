@@ -173,40 +173,6 @@ IT experiments, programming projects and continuous learning journey.
 
 <div align="center">
 
-<h2>📊 GitHub Analytics</h2>
-
-<p>
-  <i>A snapshot of my coding journey, projects and continuous learning.</i>
-</p>
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rashmi687-bit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="170"
-  alt="Rashmi's GitHub Statistics"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi687-bit&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  height="170"
-  alt="Rashmi's Most Used Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Rashmi687-bit&label=PROFILE+VISITORS&color=0969da&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-</div>
-
-<br>
-
----
 
 <!-- ==================== CONNECT ==================== -->
 
